@@ -1,4 +1,4 @@
-### This is my README for STAT 386!
+### I am a current student at Brigham Young University. I plan on getting a PhD in Statistics and one day I hope to become a Data Scientist while helping others throughout the world.
 
 <!--
 **MattBlack9/MattBlack9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
