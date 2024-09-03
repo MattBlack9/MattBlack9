@@ -1,4 +1,4 @@
-### I am a current student at Texas A&M University earning my PhD of Statistics. I previously graduated Brigham Young University with my Bachelor's of Science in Statistics: Data Science. Furthermore, I am the co-founder of Knik Valley Analytics, a data consulting company helping organizations in Alaska with all their data needs. 
+### I am a current student at Texas A&M University earning my PhD of Statistics. I previously graduated Brigham Young University with my Bachelor's of Science in Statistics: Data Science. Furthermore, I am the co-founder of Knik Valley Analytics LLC, a data consulting company helping organizations in Alaska with all their data needs. 
 <!--
 **MattBlack9/MattBlack9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
